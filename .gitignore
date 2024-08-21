@@ -1,1 +1,3 @@
 .DS_Store
+graphql/node_modules/
+graphql/package-lock.json
